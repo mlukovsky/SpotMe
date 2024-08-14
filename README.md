@@ -10,5 +10,5 @@
 -->
 # Spot Me
 
-## Learn more [here](https://mitchlukovsky.com/spot-me/)
+
 
